@@ -25,7 +25,7 @@ Thank you*
 
 ![Water Falls](Yosemitecopy.jpg "Yosemite")
 
-<b>Image Credits - Photo By SuiteCase Blue</b>
+<b>Image Credits - ramacsv </b>
 <hr style="border:4px solid blue">
 
 ## Thank You For Reading This Page
