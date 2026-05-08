@@ -1,33 +1,10 @@
-## Welcome to Suitecase Fire Works page
+## Welcome. This is how to make accurate 3d models and understand the vocabulary.
+ Ok, first you need your printer. We have choices for Budget, For most things, and a good all rounder.
+ Budget : Anycubic Kobra 3 V2 Combo The Anycubic Kobra 3 V2 Combo is a budget printer at $260. It is bang for your buck because the most well known manufacturer, Bambu Labs, releases printers like this one with a bit more features, for $900! It has an AMS, basically a box that changes different filaments, the plastic you put in the machine to make different colored models. It also supports a wide range of filaments, like squishy TPU, hard PLA, or UV resistant PETG .
 
-### July 4th is FireWorks day
+For most things : Bambu labs H2D Laser Full Combo The Bambu labs H2D Laser Full Combo has an AMS as it states in the name, but it also has a laser. The laser can cut wood, thin metals, and also engrave food! Something you can't do with the AMS is combine squishy TPU and any other filament in one print. With the H2D, you can. There are 2 nozzles on the H2D so that you can print TPU and any other filament! The price is $3,000.
 
-### Suitecase’s fire works party 
-
-*In tree island  suitecase has a a July 4th party*
-
-*He needs help picking bamboo.*
-*Kamala fox is helping him.*
-                                                                     
- *Suitecase  is going to make sugar cane juice by squeezing the sugar cane.
-He has a machine to make the juice.
-Cookie Monster is In tree island.
-He and Suitecase’s mom are making lots of Cookies.
-Srinivasa mammoth is decorating and Lakshmi hayagriva is putting up star spangled banner.
-They will light fireworks.
-Some of the fireworks displays as bamboo shape.
-Everyone is happy.
-The next part of the story if after July 4th.
-Keep visiting my page.
-Thank you*
-```
-
-
-![Water Falls](Yosemitecopy.jpg "Yosemite")
-
-<b>Image Credits - ramacsv </b>
-<hr style="border:4px solid blue">
-
+A good all rounder: Bambu labs P1S. The Bambu labs P1S has 
 ## Thank You For Reading This Page
 
 
