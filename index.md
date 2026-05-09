@@ -25,7 +25,7 @@ The Bambu Labs P1S has one nozzle and it has an monochrome display, but it is in
 
 
 
-   ### Conclusion on printers
+   ## Conclusion on printers
 
                If you are just starting with the hobby, you should buy an Anycubic Kobra 3 V2 Combo. If you want a step-up 3D printer, then the Bambu Labs P1S Combo is a no-brainer. If you are looking for a pro grade printer, you should purchase the Bambu labs H2D Laser Full Combo.
 
