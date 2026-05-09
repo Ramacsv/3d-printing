@@ -4,6 +4,8 @@
  
 ## Budget : Anycubic Kobra 3 V2 Combo 
 The Anycubic Kobra 3 V2 Combo is a budget printer at $260. It is bang for your buck because the most well known manufacturer, Bambu Labs, releases printers like this one with a bit more features, for $900! It has an AMS, basically a box that changes different filaments, the plastic you put in the machine to make different colored models. It also supports a wide range of filaments, like squishy TPU, hard PLA, or UV resistant PETG. Probably, since it is open air, you shouldn't print what are called <ins>engineering materials</ins>, which, as the name suggests, are used for engineering. These are generally tougher than other filaments and have other properties, like acid resistance. It also has a brass nozzle, which contains a small amount of lead, and you know how that will end.    (spoiler, <ins>NOT FOOD SAFE!</ins>)
+![A Kobra 3](ANYCUBIC-combo.jpg)
+
  
 ## For most things : Bambu Labs H2D Laser Full Combo
 The Bambu Labs H2D Laser Full Combo has an AMS as it states in the name, but it also has a laser. The laser can cut wood, thin metals, and also engrave food! Something you can't do with the AMS is combine squishy TPU and any other filament in one print. With the H2D, you can. There are 2 nozzles on the H2D so that you can print TPU and any other filament! It is also enclosed so you can print engineering materials. It comes with a hardened steel nozzle that is resistant to wear and tear, but isn't food safe.  The price is $3,000.
