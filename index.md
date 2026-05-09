@@ -29,6 +29,17 @@ The Bambu Labs P1S has one nozzle and it has an monochrome display, but it is in
 
                If you are just starting with the hobby, you should buy an Anycubic Kobra 3 V2 Combo. If you want a step-up 3D printer, then the Bambu Labs P1S Combo is a no-brainer. If you are looking for a pro grade printer, you should purchase the Bambu labs H2D Laser Full Combo.
 
+
+
+## Filaments
+ After you select your printer, you need filament. Filament is the plastic that you melt to create 3D models. Filament comes in many colors, sizes and types. Filament can have different properties like heat resistance or squishiness.
+## Common polymers:
+PLA,PETG,TPU
+ These polymers are mostly nontoxic and are suitable for beginners, especially PLA because of its low melting point and how cheap you can buy it.
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 ## Thank You For Reading This Page 
 To check out my other things, go to [My github page. ](https://www.github.com/Ramacsv)
 Thanks for reading!
