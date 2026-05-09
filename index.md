@@ -10,8 +10,14 @@ The Bambu labs H2D Laser Full Combo has an AMS as it states in the name, but it 
 
 
 
+
 ## A good all rounder: Bambu labs P1S. 
 The Bambu labs P1S has 
+
+
+
+![My P1S](P1S-photo.jpg)
+
 ## Thank You For Reading This Page
 
 
