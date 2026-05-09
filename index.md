@@ -7,7 +7,7 @@ The Anycubic Kobra 3 V2 Combo is a budget printer at $260. It is bang for your b
  
 ## For most things : Bambu labs H2D Laser Full Combo
 The Bambu labs H2D Laser Full Combo has an AMS as it states in the name, but it also has a laser. The laser can cut wood, thin metals, and also engrave food! Something you can't do with the AMS is combine squishy TPU and any other filament in one print. With the H2D, you can. There are 2 nozzles on the H2D so that you can print TPU and any other filament! The price is $3,000
-![An H2D] (H2D-photo.jpg)
+![An H2D](H2D-photo.jpg)
 
 
 
