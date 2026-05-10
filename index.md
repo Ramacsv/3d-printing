@@ -43,17 +43,17 @@ ________________________________________________________________________________
 ## Suitable for outdoor use:
 PETG, ABS, ASA
 ABS and ASA release toxic styrene fumes, which means you should print them with an exhaust pipe and in a well ventilated area with the windows open.
-__________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________<br />
 ## Composites
 Any composite filament
 
 A composite is a polymer blended with something else, usually not a polymer, to add properties, like wood filament looks like wood.( and sometimes smells like it.)
-__________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________<br />
 
 ## Supports:
 HIPS,PVA
 Sometimes, a really complex model will use supports to be able to print it. The removal of these supports are usually difficult. Filaments like HIPS, which dissolve in special chemicals, that other filaments don't dissolve in.
-________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________<br />
 
 
 ## Thank You For Reading This Page 
