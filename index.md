@@ -1,4 +1,4 @@
-## Welcome. This is how to make accurate 3d models and understand the vocabulary.
+## Welcome. This is how to make 3d models properly.
  Ok, first you need your printer. We have choices for budget, for most things, and a good all rounder.
 
  
