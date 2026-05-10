@@ -34,12 +34,26 @@ If you are just starting with the hobby, you should buy an Anycubic Kobra 3 V2 C
 
 
 ## Filaments
- After you select your printer, you need filament. Filament is the plastic that you melt to create 3D models. Filament comes in many colors, sizes and types. Filament can have different properties like heat resistance or squishiness.
+ After you select your printer, you need filament. Filament is the plastic that you melt to create 3D models. Filament comes in many colors, sizes and types. Filament can have different properties like heat resistance or squishiness.       <i> *Note that this is only some polymers, and there are more that 10,000 out there!<i> 
 ## Common polymers:
 PLA,PETG,TPU
  These polymers are mostly nontoxic and are suitable for beginners, especially PLA because of its low melting point and how cheap you can buy it.
 
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________
+## Suitable for outdoor use:
+PETG, ABS, ASA
+ABS and ASA release toxic styrene fumes, which means you should print them with an exhaust pipe and in a well ventilated area with the windows open.
+__________________________________________________________________________________________________________________________________________________
+## Composites
+Any composite filament
+
+A composite is a polymer blended with something else, usually not a polymer, to add properties, like wood filament looks like wood.( and sometimes smells like it.)
+__________________________________________________________________________________________________________________________________________________
+
+## Supports:
+HIPS,PVA
+Sometimes, a really complex model will use supports to be able to print it. The removal of these supports are usually difficult. Filaments like HIPS, which dissolve in special chemicals, that other filaments don't dissolve in.
+________________________________________________________________________________________________________________________________________________
 
 
 ## Thank You For Reading This Page 
