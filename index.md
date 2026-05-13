@@ -44,7 +44,7 @@ ________________________________________________________________________________
 PETG, ABS, ASA
 ABS and ASA release toxic styrene fumes, which means you should print them with an exhaust pipe and in a well ventilated area with the windows open.
 ____________________________________________________________________________________________________________________________________________<br />
-## Composites
+## Composites:
 Any composite filament
 
 A composite is a polymer blended with something else, usually not a polymer, to add properties, like wood filament looks like wood.( and sometimes smells like it.)
