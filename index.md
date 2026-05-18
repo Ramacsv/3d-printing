@@ -55,6 +55,11 @@ HIPS,PVA
 Sometimes, a really complex model will use supports to be able to print it. The removal of these supports are usually difficult. Filaments like HIPS, which dissolve in special chemicals, that other filaments don't dissolve in.
 ____________________________________________________________________________________________________________________________________________<br />
 
+## Ams vs Non-Ams
+
+The Ams is short for Automatic Material System. Sometimes it is also called an MFS or Multi-Filament System. What it means is that it switches filaments automatically instead of having to pause the print, cut the filament, load the filament, and purge the newly loaded filament. You can mix different colors automatically and mix different filaments. An example of mixing filaments would be to put TPU that is Ams safe and PLA together in one print. The benefit is that the Ams does the switching for you and that it is less manual work. 
+<img> 
+
 
 ## Thank You For Reading This Page 
 To check out my other things, go to [My github page. ](https://www.github.com/Ramacsv)
