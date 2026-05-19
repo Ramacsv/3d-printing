@@ -61,7 +61,7 @@ The Ams is short for Automatic Material System. Sometimes it is also called an M
 
 
 ![a boat](Boat.jpg)                ![a multicolor orca](Orca.jpg)
-single color boat                  An orca (multicolor with ams)
+single color boat (top)                  An orca (multicolor with ams) (bottom)
 
 
 ## Thank You For Reading This Page 
