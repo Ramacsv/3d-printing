@@ -57,11 +57,21 @@ ________________________________________________________________________________
 
 ## Ams vs Non-Ams
 
-The Ams is short for Automatic Material System. Sometimes it is also called an MFS or Multi-Filament System. What it means is that it switches filaments automatically instead of having to pause the print, cut the filament, load the filament, and purge the newly loaded filament. You can mix different colors automatically and mix different filaments. An example of mixing filaments would be to put TPU that is Ams safe and PLA together in one print. The benefit is that the Ams does the switching for you and that it is less manual work. 
+The Ams is short for Automatic Material System*. Sometimes it is also called an MFS or Multi-Filament System. What it means is that it switches filaments automatically instead of having to pause the print, cut the filament, load the filament, and purge the newly loaded filament. You can mix different colors automatically and mix different filaments. An example of mixing filaments would be to put TPU that is Ams safe and PLA together in one print. The benefit is that the Ams does the switching for you and that it is less manual work. 
+
+
+
+
+
+
+
+* Note that you can write AMS like AMS, Ams, or ams. Likewise, you can write MFS as MFS, Mfs, or as mfs. I will use both to mean the same thing.
+
+
 
 
 ![a boat](Boat.jpg)                ![a multicolor orca](Orca.jpg)
-single color boat (top)                  An orca (multicolor with ams) (bottom)
+single color boat (top)                  An orca multicolor with ams (bottom)
 
 
 ## Thank You For Reading This Page 
