@@ -53,7 +53,7 @@ ________________________________________________________________________________
 ## Supports:
 HIPS,PVA
 Sometimes, a really complex model will use supports to be able to print it. The removal of these supports are usually difficult. Filaments like HIPS, which dissolve in special chemicals, that other filaments don't dissolve in.
-____________________________________________________________________________________________________________________________________________<br />
+
 
 ## Ams vs Non-Ams
 
